@@ -1,4 +1,11 @@
 #!/bin/bash
+CONFIG_DIR="$HOME/.config/omaradio"
+STATIONS_FILE="$CONFIG_DIR/stations.txt"
+
+if [[ ! -f "$STATIONS_FILE" ]]; then
+  echo "Error: $STATIONS_FILE not found"
+  exit 1
+fi
 
 # Read stations into arrays
 declare -a names
@@ -10,7 +17,7 @@ while IFS='|' read -r name url; do
   url=$(echo "$url" | xargs)
   names+=("$name")
   urls+=("$url")
-done < stations.txt
+done < "$STATIONS_FILE"
 
 echo "Available stations:"
 for i in "${!names[@]}"; do
