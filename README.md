@@ -1,6 +1,6 @@
 # Personal radio
 
-This is just a way to save radio channel urls as I find 'em.
+This is just a way to save radio channel urls as I find 'em and to be able to play them via mpv.
 
 To get this to work:
 - Clone the repo
