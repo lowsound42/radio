@@ -18,6 +18,8 @@ while IFS='|' read -r name url; do
   names+=("$name")
   urls+=("$url")
 done < "$STATIONS_FILE"
+
+# infinite loop to keep menu active
 while true; do
   clear
   echo "Available stations:"
