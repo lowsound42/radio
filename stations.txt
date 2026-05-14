@@ -6,5 +6,5 @@ post rock 1 | https://post-rock.stream.laut.fm/post-rock
 post punk | https://postpunk.stream.laut.fm/postpunk 
 fighting radio 1 | https://radio.fgcast.com/listen/fgc_radio/standard.mp3
 CKUT | https://delray.ckut.ca:8001/ckut-live-128
-Techno 1 | https://techno.stream.laut.fm/techno
+Techno 1 | http://s1.radioparty.pl:8000/stream
 DnB 1 | https://dnb-base.stream.laut.fm/dnb-base
