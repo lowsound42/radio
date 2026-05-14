@@ -1,5 +1,5 @@
 #!/bin/bash
-CONFIG_DIR="$HOME/.config/omaradio"
+CONFIG_DIR="$HOME/.config/move-fm"
 STATIONS_FILE="$CONFIG_DIR/stations.txt"
 
 if [[ ! -f "$STATIONS_FILE" ]]; then
