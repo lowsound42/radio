@@ -18,19 +18,27 @@ while IFS='|' read -r name url; do
   names+=("$name")
   urls+=("$url")
 done < "$STATIONS_FILE"
+while true; do
+  clear
+  echo "Available stations:"
+  for i in "${!names[@]}"; do
+    echo "$((i + 1)) ${names[$i]}"
+  done
 
-echo "Available stations:"
-for i in "${!names[@]}"; do
-  echo "$((i + 1)) ${names[$i]}"
+  read -p "Select station (1-${#names[@]}) or (q)uit: " choice
+
+  if [[ "$choice" == "q" ]]; then
+    echo "later 🤙"
+    exit 0
+  fi
+
+  if ! [[ "$choice" =~ ^[0-9]+$ ]] || ((choice < 1 || choice > ${#names[@]})); then
+    echo "Invalid selection"
+    sleep 1
+    continue
+  fi
+
+  selected_url="${urls[$((choice - 1))]}"
+  echo "Playing ${names[$((choice - 1))]}"
+  mpv "$selected_url"
 done
-
-read -p "Select station (1-${#names[@]}): " choice
-
-if ! [[ "$choice" =~ ^[0-9]+$ ]] || ((choice < 1 || choice > ${#names[@]})); then
-  echo "Invalid selection"
-  exit 1
-fi
-
-selected_url="${urls[$((choice - 1))]}"
-echo "Playing ${names[$((choice - 1))]}"
-mpv "$selected_url"
