@@ -22,6 +22,16 @@ done < "$STATIONS_FILE"
 # infinite loop to keep menu active
 while true; do
   clear
+
+echo ".__                                              .___ _____ ________  "
+echo "|  |   ______  _  ____________  __ __  ____    __| _//  |  |\\_____  \\ "
+echo "|  |  /  _ \\ \\/ \\/ /  ___/  _ \\|  |  \\/    \\  / __ |/   |  |_/  ____/ "
+echo "|  |_(  <_> )     /\\___ (  <_> )  |  /   |  \\/ /_/ /    ^   /       \\ "
+echo "|____/\\____/ \\/\\_//____  >____/|____/|___|  /\\____ \\____   |\\_______ \\"
+echo "                       \\/                 \\/      \\/    |__|        \\/"
+echo " "
+echo " "
+
   echo "Available stations:"
   for i in "${!names[@]}"; do
     echo "$((i + 1)) ${names[$i]}"
