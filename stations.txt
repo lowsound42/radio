@@ -28,3 +28,4 @@ stoner rock 1 | https://regiocast.streamabc.net/regc-bobstonerrock-mp3-192-13063
 stoner rock 2 | https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC335.mp3?dist=onlineradiobox
 90s alternative | https://das-edge14-live365-dal02.cdnstream.com/a86728
 urdu world news | https://whmsonic.radio.gov.pk:7005/stream
+trance radio india | https://stream.zeno.fm/cojfxwtd06otv
