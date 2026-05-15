@@ -4,7 +4,27 @@ jb radio | https://mediacp.jb-radio.net:8001/aac
 CIUT | https://ice23.securenetsystems.net/CIUT
 post rock 1 | https://post-rock.stream.laut.fm/post-rock
 post punk | https://postpunk.stream.laut.fm/postpunk 
+random german channel | https://schallgrenzen.stream.laut.fm/schallgrenzen?o
+jazz fusion 1 | https://listen.181fm.com/181-fusionjazz_128k.mp3i
 fighting radio 1 | https://radio.fgcast.com/listen/fgc_radio/standard.mp3
 CKUT | https://delray.ckut.ca:8001/ckut-live-128
 Techno 1 | http://s1.radioparty.pl:8000/stream
+Techno 2 | https://mercury.reliastream.com/proxy/radiotec
 DnB 1 | https://dnb-base.stream.laut.fm/dnb-base
+DnB 2 | https://brokenbeats.net/stream/aac
+DnB 3 | https://antares.dribbcast.com/proxy/dave1?mp=/streami
+psytrance 1 | https://cast.magicstreams.gr:9111/stream
+psytrance 2 | http://94.130.113.214:8000/schizoid
+trance 1 | https://trance-high.rautemusik.fm
+CBC 1 | https://26733.live.streamtheworld.com/CBLAFM_CBC_SC
+Al Jazeera 1 | https://live-hls-audio-apps-aje.getaj.net/VOICE-AJE/index.m3u8
+راديو طرب | https://sawtelghad.org:8222
+Oxygen Arabic | https://stream.zeno.fm/bxb675sx5hhvv
+راديو وطني | https://sawtelghad.org:8444
+shoegaze 1 | https://shoegaze.stream.laut.fm/shoegaze
+shoegaze 2 | https://sp1.autopo.st/8026/stream
+random colombian metal | https://metal-radio.com/listen/depressiveradio/radio.mp3
+stoner rock 1 | https://regiocast.streamabc.net/regc-bobstonerrock-mp3-192-1306307
+stoner rock 2 | https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC335.mp3?dist=onlineradiobox
+90s alternative | https://das-edge14-live365-dal02.cdnstream.com/a86728
+urdu world news | https://whmsonic.radio.gov.pk:7005/stream
