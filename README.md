@@ -12,7 +12,7 @@ To get this to work:
 - Run `/path/to/move-fm.sh` and enjoy
 
 Alternatively you could make it accessible globally:
-- sudo ln -s `/absolute/path/to/move-fm.sh` `/usr/local/bin/move-fm`
+- `sudo ln -s "/absolute/path/to/move-fm.sh" "/usr/local/bin/move-fm"`
 - `sudo chmod +x /usr/local/bin/move-fm`
 - run it with `move-fm` (or whatever you called it)
 
