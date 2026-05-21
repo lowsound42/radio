@@ -21,3 +21,5 @@ Alternatively you could make it accessible globally:
 Running the script will bring up a menu that shows you what stations are available:
 
 ![selection menu](./menu.png)
+
+When you pick a station tmux will create a new session with two panes. The top one will run mpv to play the audio and the bottom will run cava which picks up the audio output to play a visualizer. To exit out of these you don't need to do the tmux stuff, just `ctrl-C` twice (one for each pane) and you'll be kicked back to the move-fm menu. At this stage the tmux session will be killed automatically.
