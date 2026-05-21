@@ -6,6 +6,8 @@ To get this to work:
 - Clone the repo
 - Use my existing `stations.txt` file or add/edit as required (stations are entered as `name | url`)
 - Install `mpv` (basically `sudo apt install mpv` but check out [mpv.io](https://mpv.io))
+- Install `tmux` -> `sudo apt install tmux`
+- Install `cava` (for the visualizer) -> `sudo apt install cava`
 - Make the `move-fm.sh` script executable with `chmod +x /path/to/move-fm.sh`.
 - Create a folder called `$HOME/.config/move-fm` (call it whatever you want, but make sure to change move-fm.sh to work with the new name). Specifically you need to edit move-fm.sh and edit the CONFIG_DIR variable to point to the folder you created.
 - Create a symlink to the stations.txt file `ln -s "/absolute/path/to/stations.txt" ~/.config/move-fm/stations.txt` -> you MUST put the full path to the actual stations.txt file here to properly create a symlink
