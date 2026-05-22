@@ -19,8 +19,6 @@ Techno 2 | https://mercury.reliastream.com/proxy/radiotec
 DnB 1 | https://dnb-base.stream.laut.fm/dnb-base
 DnB 2 | https://brokenbeats.net/stream/aac
 DnB 3 | https://antares.dribbcast.com/proxy/dave1?mp=/streami
-psytrance 1 | https://cast.magicstreams.gr:9111/stream
-psytrance 2 | http://94.130.113.214:8000/schizoid
 trance 1 | https://trance-high.rautemusik.fm
 CBC 1 | https://26733.live.streamtheworld.com/CBLAFM_CBC_SC
 shoegaze 1 | https://shoegaze.stream.laut.fm/shoegaze
@@ -29,6 +27,5 @@ random colombian metal | https://metal-radio.com/listen/depressiveradio/radio.mp
 stoner rock 1 | https://regiocast.streamabc.net/regc-bobstonerrock-mp3-192-1306307
 90s alternative | https://das-edge14-live365-dal02.cdnstream.com/a86728
 urdu world news | https://whmsonic.radio.gov.pk:7005/stream
-trance radio india | https://stream.zeno.fm/cojfxwtd06otv
 SDF Anonradio | http://anonradio.net:8000/anonradio
 radio constantine | https://radioconstantine.ice.infomaniak.ch/constantine.mp3
