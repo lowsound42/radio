@@ -42,7 +42,7 @@ echo " "
   fi
   selected_url="${urls[$((choice - 1))]}"
   echo "Playing ${names[$((choice - 1))]}"
-  tmux new-session -d -s radio_play "PULSE_LATENCY_MSEC=200 mpv --audio-buffer=2.0 --cache=yes --demuxer-max-bytes=50M '$selected_url'" \; \
+  tmux new-session -d -s radio_play "mpv '$selected_url'" \; \
   split-window -v -t radio_play "cava" \; \
   attach
 done
