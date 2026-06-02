@@ -7,9 +7,9 @@ CIUT | https://ice23.securenetsystems.net/CIUT
 post rock 1 | https://post-rock.stream.laut.fm/post-rock
 post punk | https://postpunk.stream.laut.fm/postpunk
 Al Jazeera 1 | https://live-hls-audio-apps-aje.getaj.net/VOICE-AJE/index.m3u8
-راديو طرب | https://sawtelghad.org:8222
+radio 6arab | https://sawtelghad.org:8222
 Oxygen Arabic | https://stream.zeno.fm/bxb675sx5hhvv
-راديو وطني | https://sawtelghad.org:8444 
+radio wa6an | https://sawtelghad.org:8444 
 random german channel | https://schallgrenzen.stream.laut.fm/schallgrenzen?o
 jazz fusion 1 | https://listen.181fm.com/181-fusionjazz_128k.mp3i
 fighting radio 1 | https://radio.fgcast.com/listen/fgc_radio/standard.mp3
@@ -26,7 +26,7 @@ shoegaze 2 | https://sp1.autopo.st/8026/stream
 random colombian metal | https://metal-radio.com/listen/depressiveradio/radio.mp3
 stoner rock 1 | https://regiocast.streamabc.net/regc-bobstonerrock-mp3-192-1306307
 90s alternative | https://das-edge14-live365-dal02.cdnstream.com/a86728
-urdu world news | https://whmsonic.radio.gov.pk:7005/stream
+urdu news | https://s3.radio.co/s3b10a57ef/listen
 SDF Anonradio | http://anonradio.net:8000/anonradio
 radio constantine | https://radioconstantine.ice.infomaniak.ch/constantine.mp3
 minimal 1 | https://minimalcalling.stream.laut.fm/minimalcalling
