@@ -30,5 +30,5 @@ urdu news | https://s3.radio.co/s3b10a57ef/listen
 SDF Anonradio | http://anonradio.net:8000/anonradio
 radio constantine | https://radioconstantine.ice.infomaniak.ch/constantine.mp3
 minimal 1 | https://minimalcalling.stream.laut.fm/minimalcalling
-my radio station | https://radio.garbies.ca/public/gobimax_fm
+gobimax | https://radio.garbies.ca/public/gobimax_fm
 WBAI New York | http://stream.wbai.org:8000/wbai_128
