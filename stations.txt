@@ -32,3 +32,27 @@ radio constantine | https://radioconstantine.ice.infomaniak.ch/constantine.mp3
 minimal 1 | https://minimalcalling.stream.laut.fm/minimalcalling
 gobimax | https://radio.garbies.ca/public/gobimax_fm
 WBAI New York | http://stream.wbai.org:8000/wbai_128
+Tbilisi electronic | https://listen.radioking.com/radio/282820/stream/328621
+Do you radio (London) | https://doyouworld.out.airtime.pro/doyouworld_a
+8ball (NYC) | https://eightball.out.airtime.pro/eightball_a
+Voting game music | https://relay.rainwave.cc/all.ogg?1:XXUF3ObF2i
+NYC Payphones | https://centova11.instainternet.com/proxy/marktho1?mp=/stream
+Pittsburgh PD-Fire-EMS | https://broadcastify.cdnstream1.com/21738
+ATC Live | http://d.liveatc.net/klvk2
+The Pub | http://solid24.streamupsolutions.com:8026/stream
+Radio Al-Hara (Palestine) | http://n02.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-tok=AAABfIWfHK4AlWz8Q03vJJQdWw&rj-ttl=5
+AudioBookRadio | https://audiobookradio.out.airtime.pro/audiobookradio_a
+Horror | https://eu1.fastcast4u.com/proxy/stevende1?mp=/1%27,&1780104678662
+BBC World | http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+British Comedy 1 | https://streaming04.liveboxstream.uk/proxy/roksta14/stream
+Sci-Fi | https://streaming05.liveboxstream.uk/proxy/roksta12/stream
+Old School Hip Hop | http://213.141.131.10:8002/oldschoolhiphop
+Sub FM | http://subfm.radioca.st/Sub.FM
+Rinse UK | https://admin.stream.rinse.fm/proxy/rinse_uk/stream
+Nordic Lounge | http://radio.streemlion.com:1160/stream
+Dandelion Radio | https://www.dandelionradio.com/DandelionRadio.pls
+Hollow Earth Radio | http://centova.rockhost.com:8001/stream
+Internet Public Radio | https://c11.radioboss.fm:18270/stream
+Resonance 104.4 | https://stream.resonance.fm/resonance?rp_source=1&=&&___cb=309691324386261
+Soho Radio | https://sohoradiomusic.doughunt.co.uk:8010/320mp3
+Synthwave City | https://synthwave-rex.radioca.st/stream
