@@ -35,14 +35,30 @@ echo " "
     echo "later 🤙"
     exit 0
   fi
-  if ! [[ "$choice" =~ ^[0-9]+$ ]] || ((choice < 1 || choice > ${#names[@]})); then
+  if ! [[ "$choice" =~ ^[0-9]+$ ]] || ((choice < 1 || choice > ${#names[@]})) && [[ "$choice" != "gta" ]]; then
     echo "Invalid selection"
+    sleep 1
+    continue
+  fi
+  if [[ "$choice" == "gta" ]]; then
+    echo "WOW YOU FOUND IT"
+    echo "Playing the GTA special"
+    selected_url="${urls[$((57))]}"
+    voice_url="${urls[$((39))]}"
+
+    tmux kill-session -t radio_play 2>/dev/null
+
+    tmux new-session -d -s radio_play "mpv '$selected_url'" \; \
+             split-window -v -t radio_play "cava -p $CONFIG_DIR/cava.conf" \; \
+             split-window -h -t radio_play:0.0 "mpv '$voice_url'" \; \
+    attach
     sleep 1
     continue
   fi
   selected_url="${urls[$((choice - 1))]}"
   echo "Playing ${names[$((choice - 1))]}"
+  tmux kill-session -t radio_play 2>/dev/null
   tmux new-session -d -s radio_play "mpv '$selected_url'" \; \
-  split-window -v -t radio_play "cava" \; \
+  split-window -v -t radio_play "cava -p $CONFIG_DIR/cava.conf" \; \
   attach
 done
