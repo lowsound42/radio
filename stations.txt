@@ -57,3 +57,4 @@ Resonance 104.4 | https://stream.resonance.fm/resonance?rp_source=1&=&&___cb=309
 Soho Radio | https://sohoradiomusic.doughunt.co.uk:8010/320mp3
 Synthwave City | https://synthwave-rex.radioca.st/stream
 Wheeling Park High School Radio | https://us2.maindigitalstream.com/ssl/WPHP
+Pickering Collegiate | https://ice9.securenetsystems.net/CHOP?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc4MTYxNjY1MCwiaXNzIjoidGlzcnYifQ.8uDWSXxcRMovqpRlL4cK4Oe5WffSx1uvbmxJiynMx44
