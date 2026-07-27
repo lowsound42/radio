@@ -37,7 +37,7 @@ Do you radio (London) | https://doyouworld.out.airtime.pro/doyouworld_a
 8ball (NYC) | https://eightball.out.airtime.pro/eightball_a
 Voting game music | https://relay.rainwave.cc/all.ogg?1:XXUF3ObF2i
 NYC Payphones | https://centova11.instainternet.com/proxy/marktho1?mp=/stream
-Pittsburgh PD-Fire-EMS | https://broadcastify.cdnstream1.com/21738
+EMS | https://calls.broadcastify.com/pswxui3n/5963/1785162107-227608.m4a
 ATC Live | http://d.liveatc.net/klvk2
 The Pub | http://solid24.streamupsolutions.com:8026/stream
 Radio Al-Hara (Palestine) | http://n02.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-tok=AAABfIWfHK4AlWz8Q03vJJQdWw&rj-ttl=5
