@@ -8,10 +8,16 @@ fi
 # Read stations into arrays
 declare -a names
 declare -a urls
-while IFS='|' read -r name url; do
-  # Trim whitespace
-  name=$(echo "$name" | xargs)
-  url=$(echo "$url" | xargs)
+while IFS='|' read -r name url || [[ -n "$name" ]]; do
+  # Ignore empty lines or comments starting with #
+  [[ -z "$name" || "$name" =~ ^[[:space:]]*# ]] && continue
+
+  # Trim leading/trailing whitespace using Bash parameter expansion
+  name="${name#"${name%%[![:space:]]*}"}"
+  name="${name%"${name##*[![:space:]]}"}"
+  url="${url#"${url%%[![:space:]]*}"}"
+  url="${url%"${url##*[![:space:]]}"}"
+
   names+=("$name")
   urls+=("$url")
 done < "$STATIONS_FILE"
